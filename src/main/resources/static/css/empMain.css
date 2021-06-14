@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+
+.container{
+	background: #EEEEEE;
+	height: 600px;
+	width:100%;
+}
+
+tr{
+	background: white;
+}
+
+
+h1,h2,h3,h4{
+	color: green;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #8000ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+
+button{
+	width: 100px;
+}
